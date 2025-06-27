@@ -9,7 +9,7 @@
 
 ## 🧩 Multi-Agent Workflow Overview
 
-![🕸 MultiAgent Workflow Diagram](./images/workflow.png)
+![🕸 MultiAgent Workflow Diagram](MultiAgentFlow.jpg)
 
 *Two specialized agents collaborate:*
 
