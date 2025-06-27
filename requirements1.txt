@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+chromadb
+python-dotenv
+streamlit
+matplotlib
+langchain_experimental
+Tavily-search
+langchain_tenacity
+tenacity
+langchain_community
+langchain-google-genai
